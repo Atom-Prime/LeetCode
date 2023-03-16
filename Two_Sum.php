@@ -16,9 +16,6 @@
         return [$n1,$n2];
     }
 
-//    $test_mass = array(3,3);
-//    $target = 6;
-
     $answer= twoSum([-3,4,3,90],0);
     foreach ($answer as $value){
         echo $value;
